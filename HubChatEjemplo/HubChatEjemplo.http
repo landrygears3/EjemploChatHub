@@ -1,0 +1,6 @@
+@HubChatEjemplo_HostAddress = http://localhost:5007
+
+GET {{HubChatEjemplo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
